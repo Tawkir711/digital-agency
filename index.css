@@ -122,3 +122,43 @@
     width: 70%;
 
  }*/
+ .blog-title{
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+ }
+ .crad{
+    width: 220px;
+    height: 350px;
+    /* background-color: blue; */
+    box-shadow: 4px 8px 4px gray;
+    border-radius: 5px;
+ }
+ .blog-img{
+    width: 100%;
+    border-radius: 5px;
+ }
+ .crad-title{
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+ .crads{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+ }
+ .blog-container{
+    width: 80%;
+    margin: auto;
+    background-color: gray;
+    padding: 10px;
+ }
+ .bgm{
+    height: 100vh;
+    background-image: url("./asset/image/footer-bg.png");
+    background-color: black;
+    color: white;
+ }
+ .foot{
+
+ }
