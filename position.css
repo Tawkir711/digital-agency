@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.green{
+    height: 300px;
+    width: 300px;
+    /* color: green; */
+    background-color: green;
+    position: relative;
+    top: 50px;
+
+}
+.red{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: -20px;
+    margin-left: 100px;
+}
+.fl{
+    display: flex;
+justify-content: space-around;
+height: 100vh;
+border: 1px solid red;
+align-items: center;
+
+}
