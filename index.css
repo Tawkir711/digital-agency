@@ -186,3 +186,38 @@
     background-image: url("./asset/image/footer-bg.png");
 
  }
+ .hide{
+   display: none;
+ }
+ /* mobile responsive */
+ @media screen and (max-width:576px) {
+   .service-container{
+      flex-direction: column;
+   }
+ }
+ @media screen and (max-width:576px) {
+   .header{
+      flex-direction: column;
+   }
+ }
+ @media screen and (max-width:576px) {
+   .appoinment-container{
+      flex-direction: column;
+   }
+ }
+ @media screen and (max-width:576px) {
+   .blog-container{
+      flex-direction: column;
+   }
+ }
+ @media screen and (max-width:576px) {
+   .bgm{
+      flex-direction: column;
+   }
+ }
+ @media screen and (max-width:576px) {
+   .last-1{
+      flex-direction: column;
+   }
+ }
+
